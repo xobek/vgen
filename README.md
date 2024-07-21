@@ -1,12 +1,12 @@
-# VG Engine
+# VGen
 
-VG Engine is a personal project aimed to study Vulkan and Graphics Programming as a whole. 
+Vgen is a game engine built in C using vulkan-sdk and clang.
 
 ## Development Environment
 Currently being developed for Windows. 
 ```bash
-git clone https://github.com/xobek/vulkan-gen.git
-cd vulkan-gen
+git clone https://github.com/xobek/vgen.git
+cd vgen
 ```
 
 ## Building
