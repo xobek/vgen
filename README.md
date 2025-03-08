@@ -1,6 +1,6 @@
 # VGen
 
-Vgen is a game engine built in C using vulkan-sdk and clang.
+WIP game engine written in C with vulkan sdk
 
 ## Development Environment
 Currently being developed for Windows. 
